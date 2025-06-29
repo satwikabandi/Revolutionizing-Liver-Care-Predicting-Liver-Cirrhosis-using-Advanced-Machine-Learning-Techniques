@@ -1,0 +1,2 @@
+# Revolutionizing-Liver-Care-Predicting-Liver-Cirrhosis-using-Advanced-Machine-Learning-Techniques
+This project focuses on transforming liver disease management by using machine learning to predict liver cirrhosis — a chronic and often life-threatening condition caused by long-term liver damage.A user-friendly web application is also developed using Flask, enabling doctors to input patient values and receive instant predictions.
